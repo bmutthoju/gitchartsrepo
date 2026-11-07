@@ -1,2 +1,0 @@
-# gitchartsrepo
-Helm repository
